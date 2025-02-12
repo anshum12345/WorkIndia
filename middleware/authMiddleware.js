@@ -3,7 +3,7 @@ require('dotenv').config();
 
 exports.authenticate = (req, res, next) => {
     const token = req.header('Authorization');
-    if (!token) return res.status(401).json({ message: 'Access denied' });
+    if (!token) return res.status(401).json({ message: 'denied Access' });
 
     try {
         const verified = jwt.verify(token.replace('Bearer ', ''), process.env.JWT_SECRET);
