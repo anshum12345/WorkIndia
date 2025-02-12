@@ -243,7 +243,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-For any issues or questions, please open an issue on the [GitHub repository](https://github.com/yourusername/irctc-api).
+For any issues or questions, please open an issue on the [GitHub repository](https://github.com/anshum12345/WorkIndia.git).
 
 ---
 
